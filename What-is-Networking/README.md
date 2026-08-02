@@ -8,10 +8,10 @@
 
 ## Objective 
 
-* The purpose of this room to teach us about networking how it works
-* How internet is
-* How to check if two devices are connected
-* It also have a practical challenge on how to spoof mac address
+* The purpose of this room to teach us about networking and how it works.
+* How internet is.
+* How to check if two devices are connected.
+* It also have a practical challenge on how to spoof mac address.
 
 ## Prerequisites
 
@@ -22,13 +22,13 @@
 
 #### 1. What is a Network?
 
-* Network is just simply devices connected together it can be 2 devices or billions
-* They can come in all size, shape and type
+* Network is just simply devices connected together it can be 2 devices or billions.
+* They can come in all size, shape and type.
 
 #### 2. The Internet
-* The Internet is a giant network or when many networks came together they for the Internet.
+* The Internet is a giant network or when many networks came together they form the Internet.
 * It was invented by Tim Berners-Lee by the creation of the _World Wide Web (WWW)_.
-* On the internet there are two type of networks private and public networks this determines type of Ip Address they have
+* On the internet there are two type of networks private and public networks this determines type of Ip Address they have.
   
   ##### A, A public network : it connects the private networks
   ##### B. A private network : when small networks connect
