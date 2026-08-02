@@ -46,6 +46,8 @@
      ```
      pwd
      ```
+    ![Linux Commands](images/linux-commands.png)
+  
 7. #### find
    * The 'find' command is used in two different ways
      
@@ -79,6 +81,5 @@
       ```
       echo hello >> new folder
       ```
-      ![Linux Commands](images/linux-commands.png)
   ## conclusion
   * This rooms gives a great introduction for anyone just started learning linux 
