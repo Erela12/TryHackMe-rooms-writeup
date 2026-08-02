@@ -2,7 +2,7 @@
 
 This is my TryHackMe rooms write-up 
 
-In this write-up i documented what i learned while completing the rooms 
+In this write-up i documented what i learned while completing these rooms 
 
 _Room Names_
 
