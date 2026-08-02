@@ -1,6 +1,6 @@
 # TryHackMe-rooms-writeup
 
-welcome to my TryHackMe rooms write-up 
+This is my TryHackMe rooms write-up 
 
 In this write-up i documented what i learned while completing the rooms 
 
