@@ -79,5 +79,6 @@
       ```
       echo hello >> new folder
       ```
+      ![Linux Commands](images/linux-commands.png)
   ## conclusion
   * This rooms gives a great introduction for anyone just started learning linux 
