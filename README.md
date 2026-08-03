@@ -1,5 +1,7 @@
 # TryHackMe-rooms-writeup
 
+**Prepared by : Helen Fekade**
+
 This is my TryHackMe rooms write-up 
 
 In this write-up i documented what i learned while completing these rooms 
